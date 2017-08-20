@@ -16,7 +16,7 @@ THis is a service to crawl Amazon products based on different categories.
 2. proxylist_bittiger.csv ( The proxy ip address, just in case of being blocked.)
 
 ## Architecture graph
-
+![image](https://github.com/mrjzhu/PriceMonitorSystem/blob/master/Monitor_System/monitor_graph.png)
 ## Steps
 1. crawl products data from Amazon website based on different categories.
 2. check on memcached(key:detail_url, value: price)
