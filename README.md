@@ -39,7 +39,7 @@ Mysql, Memcached, RabbitMQ.
    (50 + 20 + 100 + 4 + 4)×96×106 = 15.91GB
    
 ## FLow Diagram
-![image](https://github.com/mrjzhu/PriceMonitorSystem/raw/master/architecute.jpeg)
+![image](https://github.com/mrjzhu/PriceMonitorSystem/blob/master/architecture.jpeg)
 
 ## Steps
 
